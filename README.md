@@ -47,6 +47,3 @@ Only authorised email addresses are allowed, make sure you've been added to the 
 2. Pagination || Infinite scrolling
 3. The user should be able to preview the asset by clicking on the tile (e.g. Modal)
 
-```
-
-```
