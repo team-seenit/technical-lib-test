@@ -44,6 +44,8 @@ Only authorised email addresses are allowed, make sure you've been added to the 
 ## Acceptance Criteria
 
 1. Layout matches the design
-2. Pagination || Infinite scrolling
-3. The user should be able to preview the asset by clicking on the tile (e.g. Modal)
+2. Tests for components
+3. Pagination || Infinite scrolling
+4. The user should be able to preview the asset by clicking on the tile (e.g. Modal)
+
 
