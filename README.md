@@ -17,10 +17,10 @@ This endpoint gives access to authorised users to view some sample data for the 
 This API requests 50 records by default. However, you can change this by calling the above with the following query parameters.
 
 page=1
-minimum = 1
+   minimum = 1
 perPage=10
-minimum = 1
-maximum = 100
+   minimum = 1
+   maximum = 100
 
 E.g.
 
