@@ -8,11 +8,11 @@
 
 This endpoint gives access to authorised users to view some sample data for the purpose of Seenit Technical tests.
 
-## Available end points
+### Available end points
 
 1. https://tech-test.staging.seenit.io/v1/uploads
 
-## Pagination
+### Pagination
 
 This API requests 50 records by default. However, you can change this by calling the above with the following query parameters.
 
