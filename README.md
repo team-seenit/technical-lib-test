@@ -18,10 +18,10 @@ This API requests 50 records by default. However, you can change this by calling
 
 ```
 page=1
-    minimum = 1
+   minimum = 1
 perPage=10
-    minimum = 1
-    maximum = 100
+   minimum = 1
+   maximum = 100
 ```
 
 E.g.
@@ -33,8 +33,10 @@ https://tech-test.staging.seenit.io/v1/uploads?page=3&perPage=40
 You will need to call the endpoint with Authorization header as follows:
 
 ```
+
     curl -H "Authorization: BASIC <<your_email_address>>" \
     "https://tech-test-service-staging.seenit.studio/v1/uploads"
+
 ```
 
 Only authorised email addresses are allowed, make sure you've been added to the whitelist before.
@@ -44,3 +46,7 @@ Only authorised email addresses are allowed, make sure you've been added to the 
 1. Layout matches the design
 2. Pagination || Infinite scrolling
 3. The user should be able to preview the asset by clicking on the tile (e.g. Modal)
+
+```
+
+```
