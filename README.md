@@ -10,7 +10,7 @@ This endpoint gives access to authorised users to view some sample data for the 
 
 ### Available end points
 
-1. https://tech-test.staging.seenit.io/v1/uploads
+1. https://tech-test-service-staging.seenit.studio/v1/uploads
 
 ### Pagination
 
