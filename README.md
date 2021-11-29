@@ -44,8 +44,8 @@ Only authorised email addresses are allowed, make sure you've been added to the 
 
 ## Acceptance Criteria
 
-1. Layout matches the design, take a mobile-first aproach and surprise us.
-2. Tests for components
+1. Layout matches the design, should be responsive, take a mobile-first aproach and surprise us. 
+2. Components testing, we are using Jest and Enzyme, but any other library can be used.
 3. Pagination || Infinite scrolling
 4. The user should be able to preview the asset by clicking on the tile (e.g. Modal)
 
