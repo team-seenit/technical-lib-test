@@ -44,7 +44,7 @@ Only authorised email addresses are allowed, make sure you've been added to the 
 
 ## Acceptance Criteria
 
-1. Layout matches the design
+1. Layout matches the design, take a mobile-first aproach and surprise us.
 2. Tests for components
 3. Pagination || Infinite scrolling
 4. The user should be able to preview the asset by clicking on the tile (e.g. Modal)
