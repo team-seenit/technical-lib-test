@@ -27,7 +27,7 @@ perPage=10
 
 E.g.
 
-https://tech-test.staging.seenit.io/v1/uploads?page=3&perPage=40
+https://tech-test-service-staging.seenit.studio/v1/uploads?page=3&perPage=40
 
 # Authorization
 
