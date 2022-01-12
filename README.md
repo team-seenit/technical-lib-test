@@ -1,8 +1,8 @@
 # Seenit Library Technical Test
 
 - Hello, we'd like you to create a Library displaying multiple videos and images.
-- Design link: https://zpl.io/VkPjq8K . You'll have to login and make you sure you've been added to the project.
-- We'd love you to be creative, use latest technologies and 3rd parties if needed, and of course, we want to see your testing strategy.
+- Design is provided as a png file, with all spacing requirements and sizes.
+- We'd love you to be creative, following React best practices, use latest technologies and 3rd parties if needed, and of course, we want to see your testing strategy.
 - Don't worry if you can't finish this, just add some notes and we can go through them on the next step of the interview.
 
 ## API
@@ -44,9 +44,7 @@ Only authorised email addresses are allowed, make sure you've been added to the 
 
 ## Acceptance Criteria
 
-1. Layout matches the design, should be responsive, take a mobile-first aproach and surprise us. 
+1. Layout matches the design, should be responsive, take a mobile-first aproach and surprise us.
 2. Components testing, we are using Jest and Enzyme, but any other library can be used.
 3. Pagination || Infinite scrolling
 4. The user should be able to preview the asset by clicking on the tile (e.g. Modal)
-
-
