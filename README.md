@@ -1,7 +1,7 @@
 # Seenit Library Technical Test
 
 - Hello, we'd like you to create a Library displaying multiple videos and images.
-- Design is provided as a png file, with all spacing requirements and sizes.
+- Design is provided as a png file, with all spacing requirements and sizes. This can be found as: **Library (Interview screen).png**
 - We'd love you to be creative, following React best practices, use latest technologies and 3rd parties if needed, and of course, we want to see your testing strategy.
 - Don't worry if you can't finish this, just add some notes and we can go through them on the next step of the interview.
 
